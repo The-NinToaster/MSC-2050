@@ -1,0 +1,3 @@
+[submodule "week"]
+	path = week
+	url = git@gitlab.com:The-NinToaster/week1.git
